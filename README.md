@@ -22,7 +22,7 @@ You can install the required environment using either Conda or pip.
 Citation
 If you use this repository in your research, please cite the associated manuscript.
 Title:
-Generalizable and physics-consistent machine learning for surface tension prediction of liquid alloys
+General Machine Learning Model with Thermodynamic-Consistency for Surface Tension Prediction of Liquid Alloys
 
 Contact
 For questions, bug reports, or collaboration, please contact:
