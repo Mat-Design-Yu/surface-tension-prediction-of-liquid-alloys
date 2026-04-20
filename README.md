@@ -18,6 +18,12 @@ compositions should be given as atomic fractions
 
 Installation
 You can install the required environment using either Conda or pip.
+- `scikit-learn` == 1.8.0
+- `matminer` == 0.9.3
+- `pandas` == 2.3.3
+- `numpy` == 2.3.5
+- `joblib` == 1.5.2
+- `jupyter` 
 
 Citation
 If you use this repository in your research, please cite the associated manuscript.
